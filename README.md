@@ -1,6 +1,6 @@
 # TypeScript To-Do App
 
-A simple to-do list application built with TypeScript, HTML, and CSS. You can add tasks, and delete them.
+A simple to-do list application built with TypeScript, HTML, and CSS. You can add tasks, mark them as complete, and delete them.
 
 ---
 
